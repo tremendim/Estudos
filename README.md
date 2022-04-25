@@ -1,2 +1,2 @@
-# Estudos
-Repositório com todos códigos utilizados durante cursos e aulas.
+# Repositório de Estudos
+Repositório com todos códigos e arquivos utilizados durante cursos e aulas.
